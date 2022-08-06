@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flight_locations">
+    <item>Dublin</item>
+    <item>Cork</item>
+    <item>London</item>
+    <item>Manchester</item>
+    <item>Liverpool</item>
+    <item>Edinburgh</item>
+    <item>Glasgow</item>
+    <item>Cardiff</item>
+    <item>Madrid</item>
+    <item>Barcelona</item>
+    <item>Malaga</item>
+    <item>Reus</item>
+    <item>Paris</item>
+    <item>Bordeaux</item>
+    <item>Lourdes</item>
+    <item>Salzburg</item>
+    <item>Vienna</item>
+    <item>Berlin</item>
+    <item>Hamburg</item>
+    <item>Frankfurt</item>
+    <item>Bologna</item>
+    <item>Pisa</item>
+    <item>Milan</item>
+    <item>Naples</item>
+    <item>Rome</item>
+    <item>Bodrum</item>
+    <item>Krakow</item>
+    <item>Burgas</item>
+    <item>Sofia</item>
+    <item>Split</item>
+    <item>Amsterdam</item>
+    <item>Rotterdam</item>
+    <item>Faro</item>
+    <item>Lisbon</item>
+    </string-array>
+
+</resources>
